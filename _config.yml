@@ -1,0 +1,10 @@
+# Site settings
+title: "Natural Enemy"
+logo: "/img/logo/nelogo_topbar.svg"
+description: "I see you, Government. We are Natural Enemy."
+baseurl: ""
+url: "http://naturalenemy.org"
+github_username: "naturalenemy"
+
+# Build settings
+markdown: kramdown
